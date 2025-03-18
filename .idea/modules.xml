@@ -3,20 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DyanamicProgramming/DyanamicProgramming.iml" filepath="$PROJECT_DIR$/DyanamicProgramming/DyanamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/arrays/arrays.iml" filepath="$PROJECT_DIR$/DSA/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/arrays/basics/basics.iml" filepath="$PROJECT_DIR$/DSA/arrays/basics/basics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSA/arrays/binalrSearch/binalrSearch.iml" filepath="$PROJECT_DIR$/DSA/arrays/binalrSearch/binalrSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/arrays/binalrSearch/binalySearch.iml" filepath="$PROJECT_DIR$/DSA/arrays/binalrSearch/binalySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionFreamWork/collectionFreamWork.iml" filepath="$PROJECT_DIR$/collectionFreamWork/collectionFreamWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/encaptulation/encaptulation.iml" filepath="$PROJECT_DIR$/oops/encaptulation/encaptulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/inharitance/inharitance.iml" filepath="$PROJECT_DIR$/oops/inharitance/inharitance.iml" />
       <module fileurl="file://$PROJECT_DIR$/intelliJ codes.iml" filepath="$PROJECT_DIR$/intelliJ codes.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini_project/laibrery/laibrery.iml" filepath="$PROJECT_DIR$/mini_project/laibrery/laibrery.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/arrays/linearSearch/linearSearch.iml" filepath="$PROJECT_DIR$/DSA/arrays/linearSearch/linearSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/DSA/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionFreamWork/listInterface/listInterface.iml" filepath="$PROJECT_DIR$/collectionFreamWork/listInterface/listInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini_project/mini_project.iml" filepath="$PROJECT_DIR$/mini_project/mini_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini_project/p2/p2.iml" filepath="$PROJECT_DIR$/mini_project/p2/p2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/oops/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/practicee/practicee.iml" filepath="$PROJECT_DIR$/practicee/practicee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/recursion/recursion.iml" filepath="$PROJECT_DIR$/DSA/recursion/recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/stacks/stacks.iml" filepath="$PROJECT_DIR$/DSA/stacks/stacks.iml" />
     </modules>
   </component>
